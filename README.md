@@ -9,4 +9,8 @@ Clone the repo as a bare repo directly into `$HOME`:
 git clone  --bare https://github.com/msmith-codes/.dotfiles.git $HOME/.dotfiles
 ```
 
-Define the `dotfiles` alias.
+Source the .bashrc file
+```bash
+source ~/.bashrc
+```
+
