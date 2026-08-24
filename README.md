@@ -1,5 +1,4 @@
 # Michael Smith's Dotfiles
-
 My personal configuration files, managed as a bare git repo checked out against `$HOME`.
 No symlinks required
 
